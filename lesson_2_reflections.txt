@@ -1,10 +1,11 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 to add .git file to it or to start tracking process
-
 it puts . git directory to the folder meaning it initalizes git
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+you stage before you commit so it aint both and you can stage what you think is good and work more and if you dont want hte additional you just commit
 
 How can you use the staging area to make sure you have one commit per logical change?
 
