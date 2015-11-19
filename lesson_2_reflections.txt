@@ -9,10 +9,20 @@ you stage before you commit so it aint both and you can stage what you think is 
 
 How can you use the staging area to make sure you have one commit per logical change?
 
+you can see the staging area and decide i guss
+
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+for example if you must so something but got to work on it better you branch working while showing master
 
 How do the diagrams help you visualize the branch structure?
 
+they are tree structure so they represent who is the branch the commits and the other branches
+
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
+if we are satsfied with the branch and want it to be as a master or to combine it with a master
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+automatic might not be correct in choosing what to keep 
